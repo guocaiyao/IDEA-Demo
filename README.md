@@ -1,3 +1,3 @@
 # IDEA-Demo
-使用IDEA创建基于maven项目的spring框架并搭建整个工作目录
+使用IDEA创建基于maven项目的spring框架并搭建整个工作目录，
 可以基于这个工作框架，添加ncrphenoDB的各种依赖和容器
